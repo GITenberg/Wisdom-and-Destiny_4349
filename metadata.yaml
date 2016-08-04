@@ -1,0 +1,36 @@
+_repo: Wisdom-and-Destiny_4349
+_version: 0.0.1
+alternative_title: La sagesse et la destinée. English
+contributor:
+  translator:
+    agent_name: Sutro, Alfred
+    alias: Sutro, Alfredo
+    birthdate: 1863
+    deathdate: 1933
+    gutenberg_agent_id: '1460'
+    url: http://www.gutenberg.org/2009/agents/1460
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Sutro
+creator:
+  author:
+    agent_name: Maeterlinck, Maurice
+    birthdate: 1862
+    deathdate: 1949
+    gutenberg_agent_id: '795'
+    url: http://www.gutenberg.org/2009/agents/795
+    wikipedia: http://en.wikipedia.org/wiki/Maurice_Maeterlinck
+description: 'Translation of: La sagesse et la destinée.'
+gutenberg_issued: '2003-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4349'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Fate and fatalism'
+- !lcsh 'Wisdom'
+- GITenberg
+title: Wisdom and Destiny
+url: http://www.gutenberg.org/ebooks/4349
